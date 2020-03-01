@@ -1,0 +1,24 @@
+{
+  "name": "@auto-screenshot-tester/auto-screenshot-tester",
+  "version": "0.0.0-pre-alpha",
+  "description": "Automatically create and manage end-to-end screenshot tests for your frontend application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auto-screenshot-tester/auto-screenshot-tester.git"
+  },
+  "keywords": [
+    "testing",
+    "frontend",
+    "screenshots"
+  ],
+  "author": "btelles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auto-screenshot-tester/auto-screenshot-tester/issues"
+  },
+  "homepage": "https://github.com/auto-screenshot-tester/auto-screenshot-tester#readme"
+}
